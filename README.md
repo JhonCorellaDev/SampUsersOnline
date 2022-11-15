@@ -13,6 +13,7 @@ This is how you can change the ip to work with your server, just change the ip c
 
 Example 2
 With this simple function you can intertwine the counter with your HTML, since you can incorporate it into any tag, be it h1, p, span, etc.
+Clearly only the php code
 
 [![en-users2.png](https://i.postimg.cc/FHPBQ07k/en-users2.png)](https://postimg.cc/TKD9VLjT)
 
@@ -27,6 +28,8 @@ Así es como puede cambiar la ip para que funcione con su servidor, simplemente 
 [![es-users1.png](https://i.postimg.cc/6Q8tsW5w/es-users1.png)](https://postimg.cc/94HvZj7N)
 
 Ejemplo 2
+
 Con esta sencilla función podrás entrelazar el contador con tu HTML, ya que podrás incorporarlo a cualquier etiqueta, ya sea h1, p, span, etc.
+Claramente solo el código php
 
 [![es-users2.png](https://i.postimg.cc/3xcQFsjq/es-users2.png)](https://postimg.cc/CRk2F6QC)
